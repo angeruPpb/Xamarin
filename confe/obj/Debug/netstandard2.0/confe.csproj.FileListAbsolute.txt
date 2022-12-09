@@ -1,0 +1,16 @@
+C:\Users\paul_\source\repos\confe\confe\confe\bin\Debug\netstandard2.0\confe.deps.json
+C:\Users\paul_\source\repos\confe\confe\confe\bin\Debug\netstandard2.0\confe.dll
+C:\Users\paul_\source\repos\confe\confe\confe\bin\Debug\netstandard2.0\confe.pdb
+C:\Users\paul_\source\repos\confe\confe\confe\obj\Debug\netstandard2.0\confe.csproj.AssemblyReference.cache
+C:\Users\paul_\source\repos\confe\confe\confe\obj\Debug\netstandard2.0\confe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paul_\source\repos\confe\confe\confe\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\paul_\source\repos\confe\confe\confe\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\paul_\source\repos\confe\confe\confe\obj\Debug\netstandard2.0\confe.AssemblyInfoInputs.cache
+C:\Users\paul_\source\repos\confe\confe\confe\obj\Debug\netstandard2.0\confe.AssemblyInfo.cs
+C:\Users\paul_\source\repos\confe\confe\confe\obj\Debug\netstandard2.0\confe.csproj.CoreCompileInputs.cache
+C:\Users\paul_\source\repos\confe\confe\confe\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\paul_\source\repos\confe\confe\confe\obj\Debug\netstandard2.0\confe.dll
+C:\Users\paul_\source\repos\confe\confe\confe\obj\Debug\netstandard2.0\refint\confe.dll
+C:\Users\paul_\source\repos\confe\confe\confe\obj\Debug\netstandard2.0\confe.pdb
+C:\Users\paul_\source\repos\confe\confe\confe\obj\Debug\netstandard2.0\ref\confe.dll
+C:\Users\paul_\source\repos\confe\confe\confe\obj\Debug\netstandard2.0\Curriculum.xaml.g.cs

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="confe.MainPage"
+             NavigationPage.HasNavigationBar="False">
+
+    <ScrollView>
+        <StackLayout BackgroundColor="AntiqueWhite">
+            <Label Text="Formulario"
+                   FontSize="40"
+                   Margin="0,20,0,0"
+                   FontAttributes="Italic"
+                   HorizontalOptions="Center"/>
+            <Frame Margin="20"
+                   CornerRadius="20"
+                   HasShadow="False">
+                <StackLayout>
+                    <Label Text="Nombre:"/>
+                        <Entry x:Name="Name"
+                               Placeholder="Enter your name"/>
+                    <Label Text="Ocupacion:" />
+                        <Entry x:Name="Ocupacion"
+                               Placeholder="Enter your occupation" />
+                    <Label Text="Fecha de nacimiento:" />
+                        <Entry x:Name="Birthday"
+                               Placeholder="Enter your Date" />
+                    <Label Text="Contacto:" />
+                        <Entry x:Name="Email"
+                               Placeholder="Enter your E-mail" />
+                        <Entry x:Name="Phone"
+                               Placeholder="Enter your phone number" />
+                    <Label Text="Nacionalidad:" />
+                        <Entry x:Name="Nacionalidad"
+                               Placeholder="Enter your Country" />
+                    <Label Text="English level:" />
+                        <Entry x:Name="Level"
+                               Placeholder="Enter your English level" />
+                    <Label Text="Perfil:" />
+                        <Editor x:Name="Perfil"
+                                Placeholder="Enter your Description"
+                                AutoSize="TextChanges"/>
+                    
+                    <Button Text="Registrar"
+                            x:Name="btniniciar"
+                            Clicked="Btniniciar_Clicked"/>
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
